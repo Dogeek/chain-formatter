@@ -1,0 +1,11 @@
+node_modules/
+data/
+.npmrc
+**/*.log
+.vscode
+.idea
+config/.npmrc
+dist
+env
+.env
+coverage
